@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @toolateralus
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in language processing, graphics, servers, emulation, etc.
+- 🌱 I’m currently learning C#, JS, XAML, HTML, C++
+- 💞️ I’m looking to collaborate on really anything, i'm very new to collaborating over code and I just want to make some fun projects with people.
+- 📫 reach me via email joshnjoshgaming@gmail.com
 
 <!---
 toolateralus/toolateralus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
